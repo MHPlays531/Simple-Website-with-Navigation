@@ -1,0 +1,27 @@
+ .header {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+ }  
+
+ a {
+    color: white;
+ } 
+
+  .c{
+    color: blue;
+   
+  }
+
+  .section1 {
+    background-color: lightgrey;
+
+  }
+
+  .Yellow {
+    background-color: yellow;
+  }
+
+  * {
+    
+  }
